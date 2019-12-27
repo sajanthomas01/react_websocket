@@ -6,7 +6,7 @@
 
 # Running app
  
- switching to test dir
+ switching to react dir
  do an npm install
  npm start
 
